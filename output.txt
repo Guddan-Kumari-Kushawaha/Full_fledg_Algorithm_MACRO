@@ -1,0 +1,12 @@
+START 
+LINE1 
+LINE2 
+B X Y 
+C L D 
+L 1 B 
+L 1 C 
+A 1 K 
+S 1 B 
+A 1 X 
+S 1 Y 
+END 
